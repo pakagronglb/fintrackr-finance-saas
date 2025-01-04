@@ -88,14 +88,14 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL='/sign-in'
 NEXT_PUBLIC_CLERK_SIGN_UP_URL='/sign-up'
 
 # Database
-DATABASE_URL='postgresql://neondb_owner:3rRBx6eMCvSd@ep-dawn-lake-a1fmsx2p.ap-southeast-1.aws.neon.tech/neondb?sslmode=require'
+DATABASE_URL=''
 
 # App
 NEXT_PUBLIC_APP_URL='http://localhost:3000'
 
 # Plaid
-PLAID_CLIENT_TOKEN='6778db1f9ab60f00218c94ce'
-PLAID_SECRET_TOKEN='d98bda86f00a5182210e9834588921'
+PLAID_CLIENT_TOKEN=''
+PLAID_SECRET_TOKEN=''
 
 # LemonSqueezy
 LEMONSQUEEZY_STORE_ID=''
